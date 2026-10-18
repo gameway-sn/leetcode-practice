@@ -1,0 +1,26 @@
+# ==============================================================================
+# PASTE YOUR LEETCODE CODES HERE
+# ==============================================================================
+# You can paste multiple problems below.
+# To help identify each problem, please include the problem name, number, or URL
+# above each solution.
+#
+# Examples of acceptable formats:
+#
+# ---
+# Problem: 1. Two Sum
+# class Solution:
+#     def twoSum(self, nums: List[int], target: int) -> List[int]:
+#         ...
+#
+# ---
+# Problem: 217. Contains Duplicate
+# class Solution {
+# public:
+#     bool containsDuplicate(vector<int>& nums) {
+#         ...
+#     }
+# };
+#
+# ------------------------------------------------------------------------------
+# Paste your code below this line:
